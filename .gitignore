@@ -1,4 +1,4 @@
 /target/
-*.project
-*.DS_Sore
+.project
 .DS_Store
+.settings/
